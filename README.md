@@ -5,7 +5,9 @@
 ![Rol](https://img.shields.io/badge/Rol-Full--Stack%20%26%20QA-blueviolet?style=for-the-badge)
 
 ![Licencia](https://img.shields.io/badge/Licencia-Privado-red?style=for-the-badge) 
-
+<kbd><b>Estado:</b> Finalizado</kbd>
+<kbd><b>Rol:</b> Full-Stack & QA</kbd>
+<kbd><b>Licencia:</b> Privado</kbd>
 
 
 ¡Bienvenido! Este es un sistema web Full-Stack diseñado a medida para optimizar procesos comerciales, control estricto de stock por mayor/menor y flujos financieros en empresas distribuidoras y comercios.
