@@ -16,7 +16,7 @@
 
 | Módulo | Captura de Pantalla | Descripción |
 | :--- | :---: | :--- |
-| **1. Acceso Seguro & Dashboard** | `![Login & Dashboard](ruta/a/tu/imagen1.png)` | Autenticación basada en roles (**RBAC**). Redirección dinámica a paneles diferenciados para Administradores y Vendedores. |
+| **1. Acceso Seguro & Dashboard** | `![Login & Dashboard](assets/imagen1.png)` | Autenticación basada en roles (**RBAC**). Redirección dinámica a paneles diferenciados para Administradores y Vendedores. |
 | **2. Inventario Inteligente** | `![Inventario](ruta/a/tu/imagen2.png)` | Control detallado de paquetes/subpaquetes con conversión automática de unidades y alertas de stock bajo. |
 | **3. Punto de Venta (POS)** | `![POS](ruta/a/tu/imagen3.png)` | Interfaz interactiva responsiva. Calcula tarifas dinámicas (mayor/menor) y registra extracciones en tiempo real. |
 | **4. Finanzas & Cobranzas** | `![Finanzas](ruta/a/tu/imagen4.png)` | Control automatizado de cuentas por cobrar, registro de abonos, emisión de comprobantes y balance de caja diaria. |
