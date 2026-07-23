@@ -1,4 +1,4 @@
-# 📊🧶 Sistema Web Full-Stack para Gestión de Inventarios, Ventas Mayoristas y Finanzas
+#  Sistema Web Full-Stack para Gestión de Inventarios, Ventas Mayoristas y Finanzas
 
 <kbd><b>Estado:</b> Finalizado</kbd>
 <kbd><b>Rol:</b> Full-Stack & QA</kbd>
@@ -13,7 +13,7 @@
 
 ## 📸 Demostración Visual (Capturas del Sistema)
 
-*💡 **Tip para reclutadores:** Haz clic en las imágenes para ampliar los detalles.*
+* **Tip para reclutadores:** Haz clic en las imágenes para ampliar los detalles.*
 
 | Módulo | Captura de Pantalla | Descripción |
 | :--- | :---: | :--- |
@@ -24,21 +24,21 @@
 
 ---
 
-## 🚀 Arquitectura y Lógica de Negocio
+##  Arquitectura y Lógica de Negocio
 
 El software resuelve desafíos reales del comercio mayorista mediante reglas de negocio avanzadas:
 
-* 🏷️ **Precios Dinámicos:** Evaluación del carrito en tiempo real con JavaScript; aplica automáticamente tarifa mayorista al superar el umbral configurado (ej. +5 unidades).
-* 📦 **Cálculo de Stock Empaquetado:** Conversión automática de paquetes masivos a unidades sueltas *(Ej. 22 paquetes × 10 unid + 2 sueltas = 222 totales)* para eliminar errores humanos.
-* 🧾 **Tickets de Crédito con Multiextracción:** Permite agregar productos a un mismo ticket a lo largo del día, registrando la hora exacta de cada retiro antes del cierre total.
-* 🔍 **Auditoría de Inventario Físico:** Módulo para comparar conteo físico vs. stock del sistema, generando reportes de diferencias (+/-) y ajustes directos en la BD.
+*  **Precios Dinámicos:** Evaluación del carrito en tiempo real con JavaScript; aplica automáticamente tarifa mayorista al superar el umbral configurado (ej. +5 unidades).
+*  **Cálculo de Stock Empaquetado:** Conversión automática de paquetes masivos a unidades sueltas *(Ej. 22 paquetes × 10 unid + 2 sueltas = 222 totales)* para eliminar errores humanos.
+*  **Tickets de Crédito con Multiextracción:** Permite agregar productos a un mismo ticket a lo largo del día, registrando la hora exacta de cada retiro antes del cierre total.
+*  **Auditoría de Inventario Físico:** Módulo para comparar conteo físico vs. stock del sistema, generando reportes de diferencias (+/-) y ajustes directos en la BD.
 * 🛡️ **Seguridad por Roles (RBAC):** 
   * **Administrador:** Gestión de usuarios, reseteo de credenciales y reportes financieros globales.
   * **Vendedor:** Operación del POS, cobro de abonos y reimpresión de recibos.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Frontend:** HTML5, CSS3, Bootstrap *(diseño adaptativo)*, JavaScript Nativo *(manipulación del DOM, peticiones asíncronas / Fetch API)*.
 * **Backend:** PHP *(Programación Orientada a Objetos, gestión segura de sesiones, renderizado dinámico)*.
@@ -47,12 +47,12 @@ El software resuelve desafíos reales del comercio mayorista mediante reglas de 
 
 ---
 
-## 👩‍💻 Autoría y Calidad (QA)
+##  Autoría y Calidad (QA)
 
 Diseñado e implementado con un enfoque riguroso en la **experiencia de usuario (UX)**, **testing exploratorio** y **estabilidad funcional**.
 
 * **Desarrolladora Full-Stack & QA:** Valeria Evelin Guarachi Cori
-* **Email de contacto:** [valeriaguarachi444@gmail.com](mailto:valeriaguarachi444@gmail.com)
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-usuario) *(Recomendado agregar)*
+* **Email de contacto:** (mailto:vevelinguarachi@gmail.com)
+* **LinkedIn:** www.linkedin.com/in/valeriaguarachi  *
 
 ---
