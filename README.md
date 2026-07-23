@@ -1,9 +1,5 @@
 # 📊🧶 Sistema Web Full-Stack para Gestión de Inventarios, Ventas Mayoristas y Finanzas
 
-![Estado](https://img.shields.io/badge/Estado-Finalizado-success?style=for-the-badge)
-![Rol](https://img.shields.io/badge/Rol-Full--Stack%20%26%20QA-blueviolet?style=for-the-badge)
-![Licencia](https://img.shields.io/badge/Licencia-Privado-red?style=for-the-badge)
-
 <a href="javascript:void(0)" onclick="return false;">
   <img src="https://img.shields.io/badge/Estado-Finalizado-success?style=for-the-badge" alt="Estado">
   <img src="https://img.shields.io/badge/Rol-Full--Stack%20%26%20QA-blueviolet?style=for-the-badge" alt="Rol">
