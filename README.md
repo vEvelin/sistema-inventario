@@ -4,9 +4,11 @@
 ![Rol](https://img.shields.io/badge/Rol-Full--Stack%20%26%20QA-blueviolet?style=for-the-badge)
 ![Licencia](https://img.shields.io/badge/Licencia-Privado-red?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Estado-Finalizado-success?style=for-the-badge" alt="Estado">
-<img src="https://img.shields.io/badge/Rol-Full--Stack%20%26%20QA-blueviolet?style=for-the-badge" alt="Rol">
-<img src="https://img.shields.io/badge/Licencia-Privado-red?style=for-the-badge" alt="Licencia">
+<a href="javascript:void(0)" onclick="return false;">
+  <img src="https://img.shields.io/badge/Estado-Finalizado-success?style=for-the-badge" alt="Estado">
+  <img src="https://img.shields.io/badge/Rol-Full--Stack%20%26%20QA-blueviolet?style=for-the-badge" alt="Rol">
+  <img src="https://img.shields.io/badge/Licencia-Privado-red?style=for-the-badge" alt="Licencia">
+</a>
 
 ¡Bienvenido! Este es un sistema web Full-Stack diseñado a medida para optimizar procesos comerciales, control estricto de stock por mayor/menor y flujos financieros en empresas distribuidoras y comercios.
 
